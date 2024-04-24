@@ -1,1 +1,1 @@
-example haha
+Write-Host "Hello, World!"
